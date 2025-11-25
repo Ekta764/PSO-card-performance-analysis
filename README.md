@@ -1,5 +1,5 @@
-Project Overview
-:
+Project Overview:
+
 This project analyzes Pakistan State Oil’s (PSO) Cards Statistical Report for the fiscal year July–June, comparing This Year (TY) and Last Year (LY) performance. The goal is to evaluate financial, operational, and customer-related indicators to identify year-over-year shifts, key business trends, and areas of improvement within PSO’s Cards Division.
 
 Key Metrics Analyzed:
@@ -20,7 +20,7 @@ Fuel Category Contribution (HOBC 95, HSD, Altron)
 
 POS Deployment & Network Operational Stats
 
- Summary of Insights:
+Summary of Insights:
 
 7.1% increase in bank card sales reflects stronger customer adoption.
 
@@ -36,7 +36,7 @@ Network metrics show steady POS deployment and operational readiness across outl
 
 Fuel category trends reveal shifting consumer preferences between HOBC, HSD, and Altron.
 
- Project Objectives:
+Project Objectives:
 
 Measure year-over-year financial and operational performance.
 
@@ -62,6 +62,6 @@ Visualization and presentation structuring
 
 📄 Files Included
 
-PSO Cards Statistical Report (PDF)
+Cards Dashboard (PDF)
 
-Project summary (this README)
+Cards Data (Excel File)
